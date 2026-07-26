@@ -66,15 +66,25 @@ The model is evaluated using:
 
 ## 📷 Project Screenshots
 
-1. Dataset Preview
+### Dataset Preview
 
-2. Pair Plot
+![Dataset Preview](screenshots/dataset_preview.png)
 
-3. Correlation Heatmap
+### Pair Plot
 
-4. Confusion Matrix
+![Pair Plot](screenshots/pair_plot.png)
 
-5. Feature Importance
+### Correlation Heatmap
+
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](screenshots/feature_importance.png)
 
 ## 🚀 How to Run
 
